@@ -1,19 +1,7 @@
-		
-# qa-challenge
+-Caso de teste escrito > [Caso de teste Buildbox.pdf](https://github.com/user-attachments/files/16228841/Caso.de.teste.Buildbox.pdf)
 
-Olá!
+Testes exploratórios:
 
-Este desafio consiste em avaliar seu conhecimento e habilidades em testes automatizados, portanto esperamos que você tente resolve-lo usando toda a sua capacidade e compreensão da tecnologia aplicada.
+1> O campo "NOME", ao digitar um nome curto "Exemplos>Ana/Iam/Tom", o campo fica invádlidado com uma mensagem de erro (Nome necessário).
 
-O Desafio é o seguinte:
-
-Acesse esse link https://qastage.buildbox.one/18/cadastro 
-
-Desenvolva casos de teste automatizados para validar o processo de cadastro em uma Aplicação Web. Os testes devem cobrir diferentes cenários, incluindo entradas válidas e inválidas, verificação de campos obrigatórios, validação de formatos de dados, entre outros aspectos relevantes para garantir a funcionalidade da tela de cadastro.
-
-Projetos que demonstrarem uso eficiente do Cypress, bem como a implementação de comandos personalizados, serão valorizados e receberão pontos adicionais.
-
-Certifique-se de que seu pull request está sendo enviado no link do formulário de submissão para a vaga.
-
-Estou ansioso para ver sua abordagem criativa e eficiente para este desafio de testes automatizados.
-Boa sorte!
+2> Campo "CPF" as vezes nao valida o cpf digitado.
